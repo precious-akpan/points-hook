@@ -1,0 +1,11 @@
+{
+  "lib/forge-std": {
+    "tag": {
+      "name": "v1.15.0",
+      "rev": "0844d7e1fc5e60d77b68e469bff60265f236c398"
+    }
+  },
+  "lib/v4-hooks-public": {
+    "rev": "d68c16abdc16f5e5319865739457ef17081ea789"
+  }
+}
