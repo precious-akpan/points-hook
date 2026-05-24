@@ -177,7 +177,7 @@ contract PointsHook is BaseHook, ERC1155 {
     {
         return
             Hooks.Permissions({
-                beforeInitialize: true,
+                beforeInitialize: false,
                 afterInitialize: false,
                 beforeAddLiquidity: false,
                 beforeRemoveLiquidity: false,
